@@ -27,11 +27,12 @@ Vagrant.configure(2) do |config|
     sudo apt-get install -y nodejs rbenv ruby-dev libssl-dev libreadline-dev libsqlite3-dev libxml2-dev zlib1g-dev docker.io \
                             qt5-default libqt5webkit5-dev gstreamer1.0-plugins-base gstreamer1.0-tools gstreamer1.0-x
     git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
-    rbenv install 2.3.1
-    rbenv global 2.3.1
+    rbenv install 2.4.0
+    rbenv global 2.4.0
     gem install --user-install bundler pry rails
     addgroup ubuntu docker
     echo "export PATH=\$PATH:~/.gem/ruby/2.3.0/bin" >> ~/.profile
     echo "gem: --no-rdoc --no-ri" > ~/.gemrc
+    gem install pry
   SHELL
 end

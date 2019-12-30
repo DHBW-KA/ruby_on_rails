@@ -4,7 +4,9 @@
  * Unix/Linux/Mac
    * Rbenv http://rbenv.org/
    * RVM http://rvm.io/
- * Windows http://rubyinstaller.org/
+ * Windows 
+   * WSL and VS-Code - https://www.hanselman.com/blog/RubyOnRailsOnWindowsIsNotJustPossibleItsFabulousUsingWSL2AndVSCode.aspx
+   * http://rubyinstaller.org/
  * Browser
    * http://repl.it/languages/Ruby
    * http://tryruby.org

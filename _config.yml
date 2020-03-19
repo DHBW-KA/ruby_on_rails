@@ -22,9 +22,10 @@ title: Ruby On Rails
 email: Michael@Sprauer.net
 description: >- # this means to ignore newlines until "baseurl:"
   Ruby on Rails Vorlesung an der Dualen Hochschule Karlsruhe
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ruby_on_rails" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DHBW-KA
+
 defaults:
 - scope:
     path: "" # an empty string here means all files in the project

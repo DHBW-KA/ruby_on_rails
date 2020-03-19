@@ -34,9 +34,7 @@ defaults:
     hide_footer: true
 
 # Build settings
-theme: minima
 remote_theme: chrisrhymes/bulma-clean-theme
-#remote_theme: daviddarnes/alembic
 
 plugins:
   - jekyll-remote-theme

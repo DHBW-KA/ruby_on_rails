@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title:  "Deployment"
-date:   2020-03-25 21:00:00 +0100
+date:   2020-04-30 21:00:00 +0100
 author: Michael Sprauer
 video:  https://oc.sprauer.net/index.php/s/W44aYik7kxiLWf3/download 
 ---

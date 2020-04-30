@@ -13,4 +13,3 @@ video: https://oc.sprauer.net/index.php/s/3Kc8MF85gPqBPqB/download
 
 ## Video
 {% include videoTag.html file=page.video %}
- 

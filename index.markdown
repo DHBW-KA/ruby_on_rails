@@ -16,3 +16,4 @@ title: Ruby on Rails
 ## 5. [Frontend](5_Frontend/frontend.html)
 ## 6. [Rails Advanced](6_RailsAdvanced/rails_advanced.html)
 ## 7. [Deployment](7_Deployment/deployment.html)
+## 8. [Klausur Vorbereitung](8_KlausurVorbereitung/klausur_vorbereitung.html)

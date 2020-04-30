@@ -31,6 +31,6 @@ Arbeit auf den Stick kopiert, verwendet bitte einen Ordner mit eurer Matrikelnum
 ## Fragestunde
 
 Falls ihr Fragen zu der Klausur oder zu den Übungsklausuren habt, können wir 
-uns gerne treffen. Den Termin bitte hier abstimmen: https://doodle.com/poll/zbghxasdn8i4wntv
+uns gerne treffen. Den Termin bitte hier [abstimmen](https://doodle.com/poll/zbghxasdn8i4wntv).
 
-https://meet.jit.si/dhbw-ka-ruby-on-rails
+[https://meet.jit.si/dhbw-ka-ruby-on-rails](https://meet.jit.si/dhbw-ka-ruby-on-rails)

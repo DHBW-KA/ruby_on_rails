@@ -14,3 +14,4 @@ title: Ruby on Rails
 ## 3. [Active Record](3_ActiveRecord/active_record.html)
 ## 4. [TDD](4_TDD/tdd.html)
 ## 5. [Frontend](5_Frontend/frontend.html)
+## 6. [Rails Advanced](6_RailsAdvanced/rails_advanced.html)

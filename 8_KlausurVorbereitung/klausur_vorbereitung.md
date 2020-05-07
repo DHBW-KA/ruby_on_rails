@@ -7,12 +7,12 @@ author: Michael Sprauer
 
 ## Termin
 
-Voraussichtlich am **15.05. um 9:00 Uhr** wird die 90 min Klausur **an der DH Karlsruhe** stattfinden. 
+Voraussichtlich am **15.05. um 9:00 Uhr** wird die 60 min Klausur **an der DH Karlsruhe** stattfinden. 
 
 ## Klausur-Ablauf
 
-Bis spätestens Freitag 08.05.2020 werde ich den Link zu einem Repository rumschicken. In dem Repo findet ihr eine
-leere Rails-Applikation. Klont das Repo auf eurem Laptop und richtet euch eure Entwicklungsumgebung ein.
+Bis spätestens Freitag 08.05.2020 werde ich den [Link zu einem Repository](https://github.com/DHBW-KA/rails_klausur_2020)
+rumschicken. In dem Repo findet ihr eine leere Rails-Applikation. Klont das Repo auf eurem Laptop und richtet euch eure Entwicklungsumgebung ein.
 Es sollte die Rails Startseite ausgeliefert werden und einen grünen Test enthalten sein.
 
 Am Tag der Klausur werde ich entweder über dieses Repo oder über einen USB-Stick die Aufgabe verteilen.
